@@ -12,9 +12,13 @@ const app = express();
 //   }
 // }));
 
-// ทดสอบดูว่าตัว gateway ยังทำงาน
 app.get('/', (req, res) => {
   res.send('🧭 API Gateway is up and running!');
+});
+
+// Health check endpoint
+app.get('/health', (req, res) => {
+  res.status(200).json({ status: 'ok', service: 'auth-service' });
 });
 
 module.exports = app;
