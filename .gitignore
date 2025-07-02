@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# MacOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# npm cache
+.npm/
+
+# Optional npm cache folder
+.cache/
+
+# Debugger config
+*.pid
+*.seed
+
+# Others
+*.tgz
+
+# Optional: lock files (ถ้าต้องการ ignore)
+# package-lock.json
+# yarn.lock
