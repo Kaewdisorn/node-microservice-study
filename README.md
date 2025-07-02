@@ -1,3 +1,4 @@
+```
 node-microservice-study/
 ├── api-gateway/
 │ ├── node_modules/
@@ -12,3 +13,4 @@ node-microservice-study/
 │ ├── package.json
 │ └── package-lock.json
 └── README.md
+```
