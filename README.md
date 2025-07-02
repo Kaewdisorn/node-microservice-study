@@ -7,10 +7,8 @@ node-microservice-study/
 │ ├── .env
 │ ├── package.json
 │ └── package-lock.json
-│
 ├── auth-service/
 │ ├── node_modules/
 │ ├── package.json
 │ └── package-lock.json
-│
 └── README.md
