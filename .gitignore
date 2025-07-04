@@ -37,3 +37,6 @@ build/
 # Optional: lock files (ถ้าต้องการ ignore)
 # package-lock.json
 # yarn.lock
+
+# Postgres
+postgres/secrets
