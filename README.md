@@ -12,5 +12,10 @@ node-microservice-study/
 │ ├── node_modules/
 │ ├── package.json
 │ └── package-lock.json
+├── postgres/
+│ ├── secrets/
+│ │ └── postgres_password.txt
+│ └── postgres-stack.yml
+├── .gitignore
 └── README.md
 ```
