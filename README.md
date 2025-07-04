@@ -1,3 +1,18 @@
+# 🧩 Microservices Architecture Study
+
+## 🛠 Tech Stack
+
+| Category              | Technology                        |
+|-----------------------|-----------------------------------|
+| Runtime               | Node.js                           |
+| Framework             | Express.js                        |
+| API Gateway / Proxy   | Nginx, HAProxy, Express.js        |
+| Database              | PostgreSQL                        |
+| Cache                 | Redis, Varnish                    |
+| DevOps / CI/CD        | Docker, Jenkins, GitHub           |
+
+## 📁 Project Structure
+
 ```
 node-microservice-study/
 ├── api-gateway/
